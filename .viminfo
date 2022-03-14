@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1647287653,,"wq"
+|2,0,1647295682,,"wq"
 :"0-iam_betty" 2L, 32C
 |2,0,1646907679,,"\"0-iam_betty\" 2L, 32C"
 :wa
@@ -51,36 +51,58 @@
 |3,0,26,0,1,0,1646823975,"1€ýa€ýa:wq€ýa:wq€ýa"
 
 # File marks:
-'0  26  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,48,26,0,1647287653,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
-'1  26  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,49,26,0,1647280397,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
+'0  4  70  ~/.git/MERGE_MSG
+|4,48,4,70,1647295682,"~/.git/MERGE_MSG"
+'1  25  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,49,25,0,1647294939,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
 '2  26  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,50,26,0,1647278976,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
+|4,50,26,0,1647287653,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
 '3  26  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,51,26,0,1647278976,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
+|4,51,26,0,1647287653,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
 '4  26  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,52,26,0,1647278782,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
+|4,52,26,0,1647280397,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
 '5  26  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,53,26,0,1647278782,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
+|4,53,26,0,1647280397,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
 '6  26  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,54,26,0,1647278782,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
+|4,54,26,0,1647278976,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
 '7  26  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,55,26,0,1647278782,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
+|4,55,26,0,1647278976,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
 '8  26  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,56,26,0,1647278594,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
+|4,56,26,0,1647278976,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
 '9  26  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,57,26,0,1647278594,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
+|4,57,26,0,1647278976,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
 
 # Jumplist (newest first):
+-'  4  70  ~/.git/MERGE_MSG
+|4,39,4,70,1647295682,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1647295565,"~/.git/MERGE_MSG"
+-'  25  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,25,0,1647294939,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  25  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,25,0,1647294939,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  26  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,26,0,1647294892,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  26  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,26,0,1647294892,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  26  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,26,0,1647287653,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
 -'  26  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
 |4,39,26,0,1647287653,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
 -'  26  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
 |4,39,26,0,1647280397,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
 -'  26  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,26,0,1647280397,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  26  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,26,0,1647278976,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  26  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
 |4,39,26,0,1647278976,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
 -'  26  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
 |4,39,26,0,1647278782,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  26  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,26,0,1647278782,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  26  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,26,0,1647278594,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
 -'  26  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
 |4,39,26,0,1647278594,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
 -'  1  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
@@ -93,6 +115,22 @@
 |4,39,1,0,1647278052,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
 -'  1  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
 |4,39,1,0,1647278052,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  1  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,1,0,1647278052,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  1  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,1,0,1647278052,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  1  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,1,0,1647278052,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  1  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,1,0,1647278052,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  1  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,1,0,1647278052,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  1  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,1,0,1647278052,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  1  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,1,0,1647278052,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  1  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,1,0,1647277974,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
 -'  1  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
 |4,39,1,0,1647277974,"~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c"
 -'  12  0  ~/alx-low_level_programming/0-positive_or_negative.c
@@ -223,63 +261,33 @@
 |4,39,12,0,1647276639,"~/alx-low_level_programming/0-positive_or_negative.c"
 -'  12  0  ~/alx-low_level_programming/0-positive_or_negative.c
 |4,39,12,0,1647276639,"~/alx-low_level_programming/0-positive_or_negative.c"
--'  1  0  ~/alx-low_level_programming/0-positive_or_negative.c
-|4,39,1,0,1647274924,"~/alx-low_level_programming/0-positive_or_negative.c"
--'  1  0  ~/alx-low_level_programming/0-positive_or_negative.c
-|4,39,1,0,1647274924,"~/alx-low_level_programming/0-positive_or_negative.c"
--'  1  0  ~/alx-low_level_programming/0-positive_or_negative.c
-|4,39,1,0,1647274924,"~/alx-low_level_programming/0-positive_or_negative.c"
--'  1  0  ~/alx-low_level_programming/0-positive_or_negative.c
-|4,39,1,0,1647274924,"~/alx-low_level_programming/0-positive_or_negative.c"
--'  1  0  ~/alx-low_level_programming/0-positive_or_negative.c
-|4,39,1,0,1647274924,"~/alx-low_level_programming/0-positive_or_negative.c"
--'  1  0  ~/alx-low_level_programming/0-positive_or_negative.c
-|4,39,1,0,1647274924,"~/alx-low_level_programming/0-positive_or_negative.c"
--'  1  0  ~/alx-low_level_programming/0-positive_or_negative.c
-|4,39,1,0,1647274924,"~/alx-low_level_programming/0-positive_or_negative.c"
--'  1  0  ~/alx-low_level_programming/0-positive_or_negative.c
-|4,39,1,0,1647274924,"~/alx-low_level_programming/0-positive_or_negative.c"
--'  1  0  ~/alx-low_level_programming/0-positive_or_negative.c
-|4,39,1,0,1647274924,"~/alx-low_level_programming/0-positive_or_negative.c"
--'  1  0  ~/alx-low_level_programming/0-positive_or_negative.c
-|4,39,1,0,1647274924,"~/alx-low_level_programming/0-positive_or_negative.c"
--'  1  0  ~/alx-low_level_programming/0-positive_or_negative.c
-|4,39,1,0,1647274924,"~/alx-low_level_programming/0-positive_or_negative.c"
--'  1  0  ~/alx-low_level_programming/0-positive_or_negative.c
-|4,39,1,0,1647274924,"~/alx-low_level_programming/0-positive_or_negative.c"
--'  1  0  ~/alx-low_level_programming/0-positive_or_negative.c
-|4,39,1,0,1647274924,"~/alx-low_level_programming/0-positive_or_negative.c"
--'  1  0  ~/alx-low_level_programming/0-positive_or_negative.c
-|4,39,1,0,1647274924,"~/alx-low_level_programming/0-positive_or_negative.c"
--'  1  0  ~/alx-low_level_programming/0-positive_or_negative.c
-|4,39,1,0,1647274924,"~/alx-low_level_programming/0-positive_or_negative.c"
--'  1  0  ~/alx-low_level_programming/0-positive_or_negative.c
-|4,39,1,0,1647274924,"~/alx-low_level_programming/0-positive_or_negative.c"
--'  1  0  ~/alx-low_level_programming/0-positive_or_negative.c
-|4,39,1,0,1647274924,"~/alx-low_level_programming/0-positive_or_negative.c"
--'  1  0  ~/alx-low_level_programming/0-positive_or_negative.c
-|4,39,1,0,1647274924,"~/alx-low_level_programming/0-positive_or_negative.c"
--'  1  0  ~/alx-low_level_programming/0-positive_or_negative.c
-|4,39,1,0,1647274924,"~/alx-low_level_programming/0-positive_or_negative.c"
--'  1  0  ~/alx-low_level_programming/0-positive_or_negative.c
-|4,39,1,0,1647274924,"~/alx-low_level_programming/0-positive_or_negative.c"
--'  1  0  ~/alx-low_level_programming/0-positive_or_negative.c
-|4,39,1,0,1647274924,"~/alx-low_level_programming/0-positive_or_negative.c"
--'  1  0  ~/alx-low_level_programming/0-positive_or_negative.c
-|4,39,1,0,1647274924,"~/alx-low_level_programming/0-positive_or_negative.c"
--'  1  0  ~/alx-low_level_programming/0-positive_or_negative.c
-|4,39,1,0,1647274924,"~/alx-low_level_programming/0-positive_or_negative.c"
--'  1  0  ~/alx-low_level_programming/0-positive_or_negative.c
-|4,39,1,0,1647274924,"~/alx-low_level_programming/0-positive_or_negative.c"
--'  1  0  ~/alx-low_level_programming/0-positive_or_negative.c
-|4,39,1,0,1647274924,"~/alx-low_level_programming/0-positive_or_negative.c"
+-'  12  0  ~/alx-low_level_programming/0-positive_or_negative.c
+|4,39,12,0,1647276639,"~/alx-low_level_programming/0-positive_or_negative.c"
+-'  12  0  ~/alx-low_level_programming/0-positive_or_negative.c
+|4,39,12,0,1647276639,"~/alx-low_level_programming/0-positive_or_negative.c"
+-'  12  0  ~/alx-low_level_programming/0-positive_or_negative.c
+|4,39,12,0,1647276639,"~/alx-low_level_programming/0-positive_or_negative.c"
+-'  12  0  ~/alx-low_level_programming/0-positive_or_negative.c
+|4,39,12,0,1647276639,"~/alx-low_level_programming/0-positive_or_negative.c"
+-'  12  0  ~/alx-low_level_programming/0-positive_or_negative.c
+|4,39,12,0,1647276639,"~/alx-low_level_programming/0-positive_or_negative.c"
+-'  12  0  ~/alx-low_level_programming/0-positive_or_negative.c
+|4,39,12,0,1647276639,"~/alx-low_level_programming/0-positive_or_negative.c"
 
 # History of marks within files (newest to oldest):
 
+> ~/.git/MERGE_MSG
+	*	1647295672	0
+	"	4	70
+	^	4	71
+	.	4	70
+	+	3	66
+	+	4	70
+
 > ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
-	*	1647287645	0
-	"	26	0
-	^	26	1
+	*	1647294933	0
+	"	25	0
+	^	25	0
 	.	26	1
 	+	26	0
 	+	17	21
