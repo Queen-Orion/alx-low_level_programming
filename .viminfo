@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1647353332,,"wq"
+|2,0,1647362586,,"wq"
 :q!
 |2,0,1647351893,,"q!"
 :q
@@ -53,30 +53,34 @@
 |3,0,26,0,1,0,1646823975,"1€ýa€ýa:wq€ýa:wq€ýa"
 
 # File marks:
-'0  3  6  ~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c
-|4,48,3,6,1647353332,"~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c"
-'1  1  17  ~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c
-|4,49,1,17,1647353200,"~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c"
+'0  3  5  ~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c
+|4,48,3,5,1647362586,"~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c"
+'1  3  6  ~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c
+|4,49,3,6,1647353332,"~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c"
 '2  1  17  ~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c
 |4,50,1,17,1647353200,"~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c"
-'3  1  7  ~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c
-|4,51,1,7,1647353124,"~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c"
-'4  1  7  ~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c
-|4,52,1,7,1647353124,"~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c"
-'5  1  16  ~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c
-|4,53,1,16,1647352451,"~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c"
-'6  1  16  ~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c
-|4,54,1,16,1647352451,"~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c"
-'7  1  16  ~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c
-|4,55,1,16,1647352451,"~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c"
-'8  1  16  ~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c
-|4,56,1,16,1647352451,"~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c"
-'9  34  0  ~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c
-|4,57,34,0,1647352336,"~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c"
+'3  1  17  ~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c
+|4,51,1,17,1647353200,"~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c"
+'4  1  17  ~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c
+|4,52,1,17,1647353200,"~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c"
+'5  1  17  ~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c
+|4,53,1,17,1647353200,"~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c"
+'6  1  7  ~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c
+|4,54,1,7,1647353124,"~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c"
+'7  1  7  ~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c
+|4,55,1,7,1647353124,"~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c"
+'8  1  7  ~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c
+|4,56,1,7,1647353124,"~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c"
+'9  1  7  ~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c
+|4,57,1,7,1647353124,"~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c"
 
 # Jumplist (newest first):
+-'  3  5  ~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c
+|4,39,3,5,1647362586,"~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c"
 -'  3  6  ~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c
 |4,39,3,6,1647353332,"~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c"
+-'  1  17  ~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c
+|4,39,1,17,1647353262,"~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c"
 -'  1  17  ~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c
 |4,39,1,17,1647353262,"~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c"
 -'  1  17  ~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c
@@ -85,6 +89,8 @@
 |4,39,1,7,1647353124,"~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c"
 -'  1  16  ~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c
 |4,39,1,16,1647352451,"~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c"
+-'  34  0  ~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c
+|4,39,34,0,1647352418,"~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c"
 -'  34  0  ~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c
 |4,39,34,0,1647352418,"~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c"
 -'  34  0  ~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c
@@ -269,19 +275,13 @@
 |4,39,4,70,1647295682,"~/.git/MERGE_MSG"
 -'  4  70  ~/.git/MERGE_MSG
 |4,39,4,70,1647295682,"~/.git/MERGE_MSG"
--'  4  70  ~/.git/MERGE_MSG
-|4,39,4,70,1647295682,"~/.git/MERGE_MSG"
--'  4  70  ~/.git/MERGE_MSG
-|4,39,4,70,1647295682,"~/.git/MERGE_MSG"
--'  4  70  ~/.git/MERGE_MSG
-|4,39,4,70,1647295682,"~/.git/MERGE_MSG"
 
 # History of marks within files (newest to oldest):
 
 > ~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c
-	*	1647353328	0
-	"	3	6
-	^	3	7
+	*	1647362581	0
+	"	3	5
+	^	3	6
 	.	3	7
 	+	1	17
 	+	71	0
