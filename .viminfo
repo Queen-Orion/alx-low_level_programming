@@ -15,11 +15,15 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1657497119,,"wq"
+|2,0,1663080436,,"wq"
+:q!
+|2,0,1663078049,,"q!"
+:!q
+|2,0,1658289520,,"!q"
+:qwq
+|2,0,1657923045,,"qwq"
 :q
 |2,0,1656633865,,"q"
-:q!
-|2,0,1656114720,,"q!"
 :w
 |2,0,1654730016,,"w"
 :wq!
@@ -47,969 +51,974 @@
 |3,1,36,0,1,0,1655078304,"_"
 
 # File marks:
-'0  4  53  ~/alx-higher_level_programming/0x0B-python-input_output/my_file_0.txt
-|4,48,4,53,1657497119,"~/alx-higher_level_programming/0x0B-python-input_output/my_file_0.txt"
-'1  9  23  ~/alx-higher_level_programming/0x0B-python-input_output/7-add_item.py
-|4,49,9,23,1657496696,"~/alx-higher_level_programming/0x0B-python-input_output/7-add_item.py"
-'2  2  8  ~/alx-higher_level_programming/0x0B-python-input_output/11-main.py
-|4,50,2,8,1657496332,"~/alx-higher_level_programming/0x0B-python-input_output/11-main.py"
-'3  57  12  ~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py
-|4,51,57,12,1657494548,"~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py"
-'4  15  21  ~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py
-|4,52,15,21,1657493400,"~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py"
-'5  5  35  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,53,5,35,1657492297,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
-'6  5  35  ~/alx-higher_level_programming/0x0B-python-input_output/tests/append_after_100.txt
-|4,54,5,35,1657490766,"~/alx-higher_level_programming/0x0B-python-input_output/tests/append_after_100.txt"
-'7  17  34  ~/alx-higher_level_programming/0x0B-python-input_output/100-append_after.py
-|4,55,17,34,1657490569,"~/alx-higher_level_programming/0x0B-python-input_output/100-append_after.py"
-'8  4  64  ~/alx-higher_level_programming/0x0B-python-input_output/100-main.py
-|4,56,4,64,1657490410,"~/alx-higher_level_programming/0x0B-python-input_output/100-main.py"
-'9  12  26  ~/alx-higher_level_programming/0x0B-python-input_output/12-pascal_triangle.py
-|4,57,12,26,1657489801,"~/alx-higher_level_programming/0x0B-python-input_output/12-pascal_triangle.py"
+'0  4  0  ~/binary_trees/115-O
+|4,48,4,0,1663080436,"~/binary_trees/115-O"
+'1  3  3  ~/binary_trees/135-O
+|4,49,3,3,1663079433,"~/binary_trees/135-O"
+'2  51  0  ~/binary_trees/134-main.c
+|4,50,51,0,1663079385,"~/binary_trees/134-main.c"
+'3  38  0  ~/binary_trees/133-main.c
+|4,51,38,0,1663079322,"~/binary_trees/133-main.c"
+'4  23  0  ~/binary_trees/132-main.c
+|4,52,23,0,1663079261,"~/binary_trees/132-main.c"
+'5  41  0  ~/binary_trees/131-main.c
+|4,53,41,0,1663079214,"~/binary_trees/131-main.c"
+'6  15  0  ~/binary_trees/130-binary_tree_is_heap.c
+|4,54,15,0,1663078397,"~/binary_trees/130-binary_tree_is_heap.c"
+'7  51  0  ~/binary_trees/130-main.c
+|4,55,51,0,1663078311,"~/binary_trees/130-main.c"
+'8  3  8  ~/binary_trees/125-O
+|4,56,3,8,1663078165,"~/binary_trees/125-O"
+'9  40  0  ~/binary_trees/124-main.c
+|4,57,40,0,1663078105,"~/binary_trees/124-main.c"
 
 # Jumplist (newest first):
--'  4  53  ~/alx-higher_level_programming/0x0B-python-input_output/my_file_0.txt
-|4,39,4,53,1657497119,"~/alx-higher_level_programming/0x0B-python-input_output/my_file_0.txt"
--'  1  0  ~/alx-higher_level_programming/0x0B-python-input_output/my_file_0.txt
-|4,39,1,0,1657497036,"~/alx-higher_level_programming/0x0B-python-input_output/my_file_0.txt"
--'  9  23  ~/alx-higher_level_programming/0x0B-python-input_output/7-add_item.py
-|4,39,9,23,1657496696,"~/alx-higher_level_programming/0x0B-python-input_output/7-add_item.py"
--'  9  23  ~/alx-higher_level_programming/0x0B-python-input_output/7-add_item.py
-|4,39,9,23,1657496696,"~/alx-higher_level_programming/0x0B-python-input_output/7-add_item.py"
--'  2  8  ~/alx-higher_level_programming/0x0B-python-input_output/11-main.py
-|4,39,2,8,1657496332,"~/alx-higher_level_programming/0x0B-python-input_output/11-main.py"
--'  2  8  ~/alx-higher_level_programming/0x0B-python-input_output/11-main.py
-|4,39,2,8,1657496332,"~/alx-higher_level_programming/0x0B-python-input_output/11-main.py"
--'  2  8  ~/alx-higher_level_programming/0x0B-python-input_output/11-main.py
-|4,39,2,8,1657496332,"~/alx-higher_level_programming/0x0B-python-input_output/11-main.py"
--'  2  8  ~/alx-higher_level_programming/0x0B-python-input_output/11-main.py
-|4,39,2,8,1657496332,"~/alx-higher_level_programming/0x0B-python-input_output/11-main.py"
--'  42  93  ~/alx-higher_level_programming/0x0B-python-input_output/11-main.py
-|4,39,42,93,1657496279,"~/alx-higher_level_programming/0x0B-python-input_output/11-main.py"
--'  42  93  ~/alx-higher_level_programming/0x0B-python-input_output/11-main.py
-|4,39,42,93,1657496279,"~/alx-higher_level_programming/0x0B-python-input_output/11-main.py"
--'  42  93  ~/alx-higher_level_programming/0x0B-python-input_output/11-main.py
-|4,39,42,93,1657496279,"~/alx-higher_level_programming/0x0B-python-input_output/11-main.py"
--'  42  93  ~/alx-higher_level_programming/0x0B-python-input_output/11-main.py
-|4,39,42,93,1657496279,"~/alx-higher_level_programming/0x0B-python-input_output/11-main.py"
--'  57  12  ~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py
-|4,39,57,12,1657494548,"~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py"
--'  57  12  ~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py
-|4,39,57,12,1657494548,"~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py"
--'  57  12  ~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py
-|4,39,57,12,1657494548,"~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py"
--'  57  12  ~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py
-|4,39,57,12,1657494548,"~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py"
--'  57  12  ~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py
-|4,39,57,12,1657494548,"~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py"
--'  57  12  ~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py
-|4,39,57,12,1657494548,"~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py"
--'  57  12  ~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py
-|4,39,57,12,1657494548,"~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py"
--'  57  12  ~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py
-|4,39,57,12,1657494548,"~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py"
--'  1  0  ~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py
-|4,39,1,0,1657493469,"~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py"
--'  1  0  ~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py
-|4,39,1,0,1657493469,"~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py"
--'  1  0  ~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py
-|4,39,1,0,1657493469,"~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py"
--'  1  0  ~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py
-|4,39,1,0,1657493469,"~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py"
--'  1  0  ~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py
-|4,39,1,0,1657493469,"~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py"
--'  1  0  ~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py
-|4,39,1,0,1657493469,"~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py"
--'  1  0  ~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py
-|4,39,1,0,1657493469,"~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py"
--'  1  0  ~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py
-|4,39,1,0,1657493469,"~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py"
--'  15  21  ~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py
-|4,39,15,21,1657493400,"~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py"
--'  15  21  ~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py
-|4,39,15,21,1657493400,"~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py"
--'  15  21  ~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py
-|4,39,15,21,1657493400,"~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py"
--'  15  21  ~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py
-|4,39,15,21,1657493400,"~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py"
--'  15  21  ~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py
-|4,39,15,21,1657493400,"~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py"
--'  15  21  ~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py
-|4,39,15,21,1657493400,"~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py"
--'  15  21  ~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py
-|4,39,15,21,1657493400,"~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py"
--'  15  21  ~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py
-|4,39,15,21,1657493400,"~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py"
--'  15  21  ~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py
-|4,39,15,21,1657493400,"~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py"
--'  15  21  ~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py
-|4,39,15,21,1657493400,"~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py"
--'  15  21  ~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py
-|4,39,15,21,1657493400,"~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py"
--'  15  21  ~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py
-|4,39,15,21,1657493400,"~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py"
--'  15  21  ~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py
-|4,39,15,21,1657493400,"~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py"
--'  15  21  ~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py
-|4,39,15,21,1657493400,"~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py"
--'  15  21  ~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py
-|4,39,15,21,1657493400,"~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py"
--'  15  21  ~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py
-|4,39,15,21,1657493400,"~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py"
--'  1  0  ~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py
-|4,39,1,0,1657493351,"~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py"
--'  1  0  ~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py
-|4,39,1,0,1657493351,"~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py"
--'  1  0  ~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py
-|4,39,1,0,1657493351,"~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py"
--'  1  0  ~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py
-|4,39,1,0,1657493351,"~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py"
--'  1  0  ~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py
-|4,39,1,0,1657493351,"~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py"
--'  1  0  ~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py
-|4,39,1,0,1657493351,"~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py"
--'  1  0  ~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py
-|4,39,1,0,1657493351,"~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py"
--'  1  0  ~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py
-|4,39,1,0,1657493351,"~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py"
--'  1  0  ~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py
-|4,39,1,0,1657493351,"~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py"
--'  1  0  ~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py
-|4,39,1,0,1657493351,"~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py"
--'  1  0  ~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py
-|4,39,1,0,1657493351,"~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py"
--'  1  0  ~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py
-|4,39,1,0,1657493351,"~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py"
--'  1  0  ~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py
-|4,39,1,0,1657493351,"~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py"
--'  1  0  ~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py
-|4,39,1,0,1657493351,"~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py"
--'  1  0  ~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py
-|4,39,1,0,1657493351,"~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py"
--'  1  0  ~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py
-|4,39,1,0,1657493351,"~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py"
--'  5  35  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,5,35,1657492297,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  5  35  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,5,35,1657492297,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  5  35  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,5,35,1657492297,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  5  35  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,5,35,1657492297,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  5  35  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,5,35,1657492297,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  5  35  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,5,35,1657492297,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  5  35  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,5,35,1657492297,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  5  35  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,5,35,1657492297,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  5  35  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,5,35,1657492297,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  5  35  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,5,35,1657492297,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  5  35  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,5,35,1657492297,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  5  35  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,5,35,1657492297,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  5  35  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,5,35,1657492297,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  5  35  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,5,35,1657492297,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  5  35  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,5,35,1657492297,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  5  35  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,5,35,1657492297,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  5  35  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,5,35,1657492297,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  5  35  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,5,35,1657492297,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  5  35  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,5,35,1657492297,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  5  35  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,5,35,1657492297,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  5  35  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,5,35,1657492297,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  5  35  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,5,35,1657492297,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  5  35  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,5,35,1657492297,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  5  35  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,5,35,1657492297,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  5  35  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,5,35,1657492297,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  5  35  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,5,35,1657492297,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  5  35  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,5,35,1657492297,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  5  35  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,5,35,1657492297,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  5  35  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,5,35,1657492297,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  5  35  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,5,35,1657492297,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  5  35  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,5,35,1657492297,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  5  35  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,5,35,1657492297,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  1  0  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,1,0,1657492265,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  1  0  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,1,0,1657492265,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  1  0  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,1,0,1657492265,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  1  0  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,1,0,1657492265,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  1  0  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,1,0,1657492265,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  1  0  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,1,0,1657492265,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  1  0  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,1,0,1657492265,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
--'  1  0  ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-|4,39,1,0,1657492265,"~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt"
+-'  4  0  ~/binary_trees/115-O
+|4,39,4,0,1663080436,"~/binary_trees/115-O"
+-'  1  27  ~/binary_trees/115-O
+|4,39,1,27,1663080416,"~/binary_trees/115-O"
+-'  3  3  ~/binary_trees/135-O
+|4,39,3,3,1663079433,"~/binary_trees/135-O"
+-'  3  3  ~/binary_trees/135-O
+|4,39,3,3,1663079433,"~/binary_trees/135-O"
+-'  1  0  ~/binary_trees/135-O
+|4,39,1,0,1663079404,"~/binary_trees/135-O"
+-'  1  0  ~/binary_trees/135-O
+|4,39,1,0,1663079404,"~/binary_trees/135-O"
+-'  51  0  ~/binary_trees/134-main.c
+|4,39,51,0,1663079385,"~/binary_trees/134-main.c"
+-'  51  0  ~/binary_trees/134-main.c
+|4,39,51,0,1663079385,"~/binary_trees/134-main.c"
+-'  51  0  ~/binary_trees/134-main.c
+|4,39,51,0,1663079385,"~/binary_trees/134-main.c"
+-'  51  0  ~/binary_trees/134-main.c
+|4,39,51,0,1663079385,"~/binary_trees/134-main.c"
+-'  1  0  ~/binary_trees/134-main.c
+|4,39,1,0,1663079356,"~/binary_trees/134-main.c"
+-'  1  0  ~/binary_trees/134-main.c
+|4,39,1,0,1663079356,"~/binary_trees/134-main.c"
+-'  1  0  ~/binary_trees/134-main.c
+|4,39,1,0,1663079356,"~/binary_trees/134-main.c"
+-'  1  0  ~/binary_trees/134-main.c
+|4,39,1,0,1663079356,"~/binary_trees/134-main.c"
+-'  38  0  ~/binary_trees/133-main.c
+|4,39,38,0,1663079322,"~/binary_trees/133-main.c"
+-'  38  0  ~/binary_trees/133-main.c
+|4,39,38,0,1663079322,"~/binary_trees/133-main.c"
+-'  38  0  ~/binary_trees/133-main.c
+|4,39,38,0,1663079322,"~/binary_trees/133-main.c"
+-'  38  0  ~/binary_trees/133-main.c
+|4,39,38,0,1663079322,"~/binary_trees/133-main.c"
+-'  38  0  ~/binary_trees/133-main.c
+|4,39,38,0,1663079322,"~/binary_trees/133-main.c"
+-'  38  0  ~/binary_trees/133-main.c
+|4,39,38,0,1663079322,"~/binary_trees/133-main.c"
+-'  38  0  ~/binary_trees/133-main.c
+|4,39,38,0,1663079322,"~/binary_trees/133-main.c"
+-'  38  0  ~/binary_trees/133-main.c
+|4,39,38,0,1663079322,"~/binary_trees/133-main.c"
+-'  1  0  ~/binary_trees/133-main.c
+|4,39,1,0,1663079288,"~/binary_trees/133-main.c"
+-'  1  0  ~/binary_trees/133-main.c
+|4,39,1,0,1663079288,"~/binary_trees/133-main.c"
+-'  1  0  ~/binary_trees/133-main.c
+|4,39,1,0,1663079288,"~/binary_trees/133-main.c"
+-'  1  0  ~/binary_trees/133-main.c
+|4,39,1,0,1663079288,"~/binary_trees/133-main.c"
+-'  1  0  ~/binary_trees/133-main.c
+|4,39,1,0,1663079288,"~/binary_trees/133-main.c"
+-'  1  0  ~/binary_trees/133-main.c
+|4,39,1,0,1663079288,"~/binary_trees/133-main.c"
+-'  1  0  ~/binary_trees/133-main.c
+|4,39,1,0,1663079288,"~/binary_trees/133-main.c"
+-'  1  0  ~/binary_trees/133-main.c
+|4,39,1,0,1663079288,"~/binary_trees/133-main.c"
+-'  23  0  ~/binary_trees/132-main.c
+|4,39,23,0,1663079261,"~/binary_trees/132-main.c"
+-'  23  0  ~/binary_trees/132-main.c
+|4,39,23,0,1663079261,"~/binary_trees/132-main.c"
+-'  23  0  ~/binary_trees/132-main.c
+|4,39,23,0,1663079261,"~/binary_trees/132-main.c"
+-'  23  0  ~/binary_trees/132-main.c
+|4,39,23,0,1663079261,"~/binary_trees/132-main.c"
+-'  23  0  ~/binary_trees/132-main.c
+|4,39,23,0,1663079261,"~/binary_trees/132-main.c"
+-'  23  0  ~/binary_trees/132-main.c
+|4,39,23,0,1663079261,"~/binary_trees/132-main.c"
+-'  23  0  ~/binary_trees/132-main.c
+|4,39,23,0,1663079261,"~/binary_trees/132-main.c"
+-'  23  0  ~/binary_trees/132-main.c
+|4,39,23,0,1663079261,"~/binary_trees/132-main.c"
+-'  23  0  ~/binary_trees/132-main.c
+|4,39,23,0,1663079261,"~/binary_trees/132-main.c"
+-'  23  0  ~/binary_trees/132-main.c
+|4,39,23,0,1663079261,"~/binary_trees/132-main.c"
+-'  23  0  ~/binary_trees/132-main.c
+|4,39,23,0,1663079261,"~/binary_trees/132-main.c"
+-'  23  0  ~/binary_trees/132-main.c
+|4,39,23,0,1663079261,"~/binary_trees/132-main.c"
+-'  23  0  ~/binary_trees/132-main.c
+|4,39,23,0,1663079261,"~/binary_trees/132-main.c"
+-'  23  0  ~/binary_trees/132-main.c
+|4,39,23,0,1663079261,"~/binary_trees/132-main.c"
+-'  23  0  ~/binary_trees/132-main.c
+|4,39,23,0,1663079261,"~/binary_trees/132-main.c"
+-'  23  0  ~/binary_trees/132-main.c
+|4,39,23,0,1663079261,"~/binary_trees/132-main.c"
+-'  1  0  ~/binary_trees/132-main.c
+|4,39,1,0,1663079237,"~/binary_trees/132-main.c"
+-'  1  0  ~/binary_trees/132-main.c
+|4,39,1,0,1663079237,"~/binary_trees/132-main.c"
+-'  1  0  ~/binary_trees/132-main.c
+|4,39,1,0,1663079237,"~/binary_trees/132-main.c"
+-'  1  0  ~/binary_trees/132-main.c
+|4,39,1,0,1663079237,"~/binary_trees/132-main.c"
+-'  1  0  ~/binary_trees/132-main.c
+|4,39,1,0,1663079237,"~/binary_trees/132-main.c"
+-'  1  0  ~/binary_trees/132-main.c
+|4,39,1,0,1663079237,"~/binary_trees/132-main.c"
+-'  1  0  ~/binary_trees/132-main.c
+|4,39,1,0,1663079237,"~/binary_trees/132-main.c"
+-'  1  0  ~/binary_trees/132-main.c
+|4,39,1,0,1663079237,"~/binary_trees/132-main.c"
+-'  1  0  ~/binary_trees/132-main.c
+|4,39,1,0,1663079237,"~/binary_trees/132-main.c"
+-'  1  0  ~/binary_trees/132-main.c
+|4,39,1,0,1663079237,"~/binary_trees/132-main.c"
+-'  1  0  ~/binary_trees/132-main.c
+|4,39,1,0,1663079237,"~/binary_trees/132-main.c"
+-'  1  0  ~/binary_trees/132-main.c
+|4,39,1,0,1663079237,"~/binary_trees/132-main.c"
+-'  1  0  ~/binary_trees/132-main.c
+|4,39,1,0,1663079237,"~/binary_trees/132-main.c"
+-'  1  0  ~/binary_trees/132-main.c
+|4,39,1,0,1663079237,"~/binary_trees/132-main.c"
+-'  1  0  ~/binary_trees/132-main.c
+|4,39,1,0,1663079237,"~/binary_trees/132-main.c"
+-'  1  0  ~/binary_trees/132-main.c
+|4,39,1,0,1663079237,"~/binary_trees/132-main.c"
+-'  41  0  ~/binary_trees/131-main.c
+|4,39,41,0,1663079214,"~/binary_trees/131-main.c"
+-'  41  0  ~/binary_trees/131-main.c
+|4,39,41,0,1663079214,"~/binary_trees/131-main.c"
+-'  41  0  ~/binary_trees/131-main.c
+|4,39,41,0,1663079214,"~/binary_trees/131-main.c"
+-'  41  0  ~/binary_trees/131-main.c
+|4,39,41,0,1663079214,"~/binary_trees/131-main.c"
+-'  41  0  ~/binary_trees/131-main.c
+|4,39,41,0,1663079214,"~/binary_trees/131-main.c"
+-'  41  0  ~/binary_trees/131-main.c
+|4,39,41,0,1663079214,"~/binary_trees/131-main.c"
+-'  41  0  ~/binary_trees/131-main.c
+|4,39,41,0,1663079214,"~/binary_trees/131-main.c"
+-'  41  0  ~/binary_trees/131-main.c
+|4,39,41,0,1663079214,"~/binary_trees/131-main.c"
+-'  41  0  ~/binary_trees/131-main.c
+|4,39,41,0,1663079214,"~/binary_trees/131-main.c"
+-'  41  0  ~/binary_trees/131-main.c
+|4,39,41,0,1663079214,"~/binary_trees/131-main.c"
+-'  41  0  ~/binary_trees/131-main.c
+|4,39,41,0,1663079214,"~/binary_trees/131-main.c"
+-'  41  0  ~/binary_trees/131-main.c
+|4,39,41,0,1663079214,"~/binary_trees/131-main.c"
+-'  41  0  ~/binary_trees/131-main.c
+|4,39,41,0,1663079214,"~/binary_trees/131-main.c"
+-'  41  0  ~/binary_trees/131-main.c
+|4,39,41,0,1663079214,"~/binary_trees/131-main.c"
+-'  41  0  ~/binary_trees/131-main.c
+|4,39,41,0,1663079214,"~/binary_trees/131-main.c"
+-'  41  0  ~/binary_trees/131-main.c
+|4,39,41,0,1663079214,"~/binary_trees/131-main.c"
+-'  41  0  ~/binary_trees/131-main.c
+|4,39,41,0,1663079214,"~/binary_trees/131-main.c"
+-'  41  0  ~/binary_trees/131-main.c
+|4,39,41,0,1663079214,"~/binary_trees/131-main.c"
+-'  41  0  ~/binary_trees/131-main.c
+|4,39,41,0,1663079214,"~/binary_trees/131-main.c"
+-'  41  0  ~/binary_trees/131-main.c
+|4,39,41,0,1663079214,"~/binary_trees/131-main.c"
+-'  41  0  ~/binary_trees/131-main.c
+|4,39,41,0,1663079214,"~/binary_trees/131-main.c"
+-'  41  0  ~/binary_trees/131-main.c
+|4,39,41,0,1663079214,"~/binary_trees/131-main.c"
+-'  41  0  ~/binary_trees/131-main.c
+|4,39,41,0,1663079214,"~/binary_trees/131-main.c"
+-'  41  0  ~/binary_trees/131-main.c
+|4,39,41,0,1663079214,"~/binary_trees/131-main.c"
+-'  41  0  ~/binary_trees/131-main.c
+|4,39,41,0,1663079214,"~/binary_trees/131-main.c"
+-'  41  0  ~/binary_trees/131-main.c
+|4,39,41,0,1663079214,"~/binary_trees/131-main.c"
+-'  41  0  ~/binary_trees/131-main.c
+|4,39,41,0,1663079214,"~/binary_trees/131-main.c"
+-'  41  0  ~/binary_trees/131-main.c
+|4,39,41,0,1663079214,"~/binary_trees/131-main.c"
+-'  41  0  ~/binary_trees/131-main.c
+|4,39,41,0,1663079214,"~/binary_trees/131-main.c"
+-'  41  0  ~/binary_trees/131-main.c
+|4,39,41,0,1663079214,"~/binary_trees/131-main.c"
+-'  41  0  ~/binary_trees/131-main.c
+|4,39,41,0,1663079214,"~/binary_trees/131-main.c"
+-'  41  0  ~/binary_trees/131-main.c
+|4,39,41,0,1663079214,"~/binary_trees/131-main.c"
+-'  1  0  ~/binary_trees/131-main.c
+|4,39,1,0,1663079185,"~/binary_trees/131-main.c"
+-'  1  0  ~/binary_trees/131-main.c
+|4,39,1,0,1663079185,"~/binary_trees/131-main.c"
+-'  1  0  ~/binary_trees/131-main.c
+|4,39,1,0,1663079185,"~/binary_trees/131-main.c"
+-'  1  0  ~/binary_trees/131-main.c
+|4,39,1,0,1663079185,"~/binary_trees/131-main.c"
+-'  1  0  ~/binary_trees/131-main.c
+|4,39,1,0,1663079185,"~/binary_trees/131-main.c"
+-'  1  0  ~/binary_trees/131-main.c
+|4,39,1,0,1663079185,"~/binary_trees/131-main.c"
 
 # History of marks within files (newest to oldest):
 
-> ~/alx-higher_level_programming/0x0B-python-input_output/my_file_0.txt
-	*	1657497116	0
-	"	4	53
-	^	4	54
-	.	4	53
-	+	4	53
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/7-add_item.py
-	*	1657496691	0
-	"	9	23
-	^	9	24
-	.	9	3
-	+	9	77
-	+	20	29
-	+	9	3
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/11-main.py
-	*	1657496329	0
-	"	2	8
-	^	2	9
-	.	42	93
-	+	42	93
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/101-stats.py
-	*	1657494544	0
-	"	57	12
-	^	57	13
-	.	57	12
-	+	57	12
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/101-generator.py
-	*	1657493396	0
-	"	15	21
-	^	15	22
-	.	15	21
-	+	15	21
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/append_after_100.txt
-	*	1657492291	0
-	"	5	35
-	^	5	36
-	.	5	35
-	+	5	35
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/tests/append_after_100.txt
-	*	1657490761	0
-	"	5	35
-	^	5	36
-	.	5	35
-	+	5	35
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/100-append_after.py
-	*	1657490564	0
-	"	17	34
-	^	17	35
-	.	17	34
-	+	17	34
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/100-main.py
-	*	1657490404	0
-	"	4	64
-	^	4	65
-	.	4	64
-	+	4	64
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/12-pascal_triangle.py
-	*	1657489797	0
-	"	12	26
-	^	12	27
-	.	12	26
-	+	8	0
-	+	7	9
-	+	13	13
-	+	12	16
-	+	8	12
-	+	12	16
-	+	8	12
-	+	12	16
-	+	8	12
-	+	12	26
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/12-main.py
-	*	1657485030	0
-	"	16	37
-	^	16	38
-	.	16	37
-	+	16	37
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/11-student.py
-	*	1657292305	0
-	"	16	34
-	^	16	35
-	.	16	34
-	+	16	34
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/10-student.py
-	*	1657291961	0
-	"	20	38
-	^	20	39
-	.	20	38
-	+	20	38
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/10-main.py
-	*	1657291790	0
-	"	13	17
-	^	13	18
-	.	14	0
-	+	14	0
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/9-student.py
-	*	1657291465	0
-	"	1	17
-	^	1	18
-	.	25	37
-	+	25	37
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/9-main.py
-	*	1657291238	0
-	"	12	32
-	^	12	33
-	.	12	32
-	+	12	32
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/8-main_2.py
-	*	1657290880	0
-	"	12	8
-	^	12	9
-	.	12	8
-	+	12	8
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/8-my_class_2.py
-	*	1657290818	0
-	"	23	88
-	^	23	89
-	.	23	88
-	+	23	88
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/8-class_to_json.py
-	*	1657290676	0
-	"	8	7
-	^	8	8
-	.	8	7
-	+	10	15
-	+	7	33
-	+	8	11
-	+	9	7
-	+	10	11
-	+	8	8
-	+	9	4
-	+	8	4
-	+	10	8
-	+	7	31
-	+	8	7
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/8-main.py
-	*	1657289492	0
-	"	12	8
-	^	12	9
-	.	13	0
-	+	13	0
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/8-my_class.py
-	*	1657289399	0
-	"	14	66
-	^	14	67
-	.	14	66
-	+	14	66
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/6-load_from_json_file.py
-	*	1657287074	0
-	"	7	49
-	^	7	50
-	.	7	49
-	+	9	32
-	+	7	49
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/6-main.py
-	*	1657285632	0
-	"	28	51
-	^	28	52
-	.	28	51
-	+	28	51
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/5-save_to_json_file.py
-	*	1657284265	0
-	"	9	33
-	^	9	34
-	.	9	33
-	+	9	33
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/5-main.py
-	*	1657283963	0
-	"	26	51
-	^	26	52
-	.	26	51
-	+	26	51
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/4-from_json_string.py
-	*	1657283582	0
-	"	8	28
-	^	8	29
-	.	8	28
-	+	1	18
-	+	8	28
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/4-main.py
-	*	1657283351	0
-	"	25	51
-	^	25	52
-	.	26	0
-	+	26	0
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/3-to_json_string.py
-	*	1657282585	0
-	"	8	28
-	^	8	29
-	.	8	28
-	+	8	28
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/3-main.py
-	*	1657282301	0
-	"	29	51
-	^	29	52
-	.	29	51
-	+	29	51
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/2-append_write.py
-	*	1657281600	0
-	"	5	25
-	^	5	26
-	.	5	25
-	+	8	33
-	+	5	25
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/2-main.py
-	*	1657280671	0
-	"	5	25
-	^	5	26
-	.	5	25
-	+	5	25
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/1-write_file.py
-	*	1657280397	0
-	"	9	33
-	^	9	34
-	.	9	33
-	+	9	33
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/1-main.py
-	*	1657280007	0
-	"	5	19
-	^	5	20
-	.	5	19
-	+	5	19
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/0-read_file.py
-	*	1657238294	0
-	"	9	33
-	^	9	34
-	.	9	33
-	+	9	33
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/tests/my_file_0.txt
-	*	1657238117	0
-	"	4	53
-	^	4	54
-	.	4	53
-	+	4	53
-
-> ~/alx-higher_level_programming/0x0B-python-input_output/0-main.py
-	*	1657237960	0
-	"	4	25
-	^	4	26
-	.	4	25
-	+	4	25
-
-> ~/alx-higher_level_programming/0x0A-python-inheritance/101-add_attribute.py
-	*	1657079255	0
-	"	12	49
-	^	12	50
-	.	12	49
-	+	12	49
-
-> ~/alx-higher_level_programming/0x0A-python-inheritance/101-main.py
-	*	1657079124	0
-	"	16	51
-	^	16	52
-	.	17	0
-	+	17	0
-
-> ~/alx-higher_level_programming/0x0A-python-inheritance/100-my_int.py
-	*	1657078892	0
-	"	16	37
-	^	16	38
-	.	16	37
-	+	16	37
-
-> ~/alx-higher_level_programming/0x0A-python-inheritance/100-main.py
-	*	1657078819	0
-	"	7	15
-	^	7	16
-	.	7	15
-	+	7	15
-
-> ~/alx-higher_level_programming/0x0A-python-inheritance/11-square.py
-	*	1657078570	0
-	"	25	46
-	^	25	47
-	.	25	46
-	+	25	46
-
-> ~/alx-higher_level_programming/0x0A-python-inheritance/11-main.py
-	*	1657078460	0
-	"	7	14
-	^	7	15
-	.	7	14
-	+	7	14
-
-> ~/alx-higher_level_programming/0x0A-python-inheritance/10-square.py
-	*	1657078189	0
-	"	20	30
-	^	20	31
-	.	20	30
-	+	20	30
-
-> ~/alx-higher_level_programming/0x0A-python-inheritance/10-main.py
-	*	1657078044	0
-	"	7	14
-	^	7	15
-	.	7	14
-	+	7	14
-
-> ~/alx-higher_level_programming/0x0A-python-inheritance/9-rectangle.py
-	*	1657077821	0
-	"	37	62
-	^	37	63
-	.	37	62
-	+	37	62
-
-> ~/alx-higher_level_programming/0x0A-python-inheritance/9-main.py
-	*	1657077721	0
-	"	7	14
-	^	7	15
-	.	8	0
-	+	8	0
-
-> ~/alx-higher_level_programming/0x0A-python-inheritance/8-rectangle.py
-	*	1657077397	0
-	"	23	29
-	^	23	30
-	.	23	29
-	+	23	29
-
-> ~/alx-higher_level_programming/0x0A-python-inheritance/8-main.py
-	*	1657077220	0
-	"	17	51
-	^	17	52
-	.	17	51
-	+	17	51
-
-> ~/alx-higher_level_programming/0x0A-python-inheritance/tests/7-base_geometry.txt
-	*	1657076926	0
-	"	1	29
-	^	1	30
-	.	120	0
-	+	120	0
-
-> ~/alx-higher_level_programming/0x0A-python-inheritance/7-base_geometry.py
-	*	1657076587	0
-	"	27	69
-	^	27	70
-	.	27	69
-	+	27	69
-
-> ~/alx-higher_level_programming/0x0A-python-inheritance/7-main.py
-	*	1657076496	0
-	"	22	51
-	^	22	52
-	.	23	0
-	+	23	0
-
-> ~/alx-higher_level_programming/0x0A-python-inheritance/6-base_geometry.py
-	*	1657076202	0
-	"	13	51
-	^	13	52
-	.	13	51
-	+	13	51
-
-> ~/alx-higher_level_programming/0x0A-python-inheritance/6-main.py
-	*	1657075932	0
-	"	9	51
-	^	9	52
-	.	10	0
-	+	10	0
-
-> ~/alx-higher_level_programming/0x0A-python-inheritance/5-base_geometry.py
-	*	1657075658	0
-	"	9	7
-	^	9	8
-	.	9	7
-	+	9	7
-
-> ~/alx-higher_level_programming/0x0A-python-inheritance/5-main.py
-	*	1657075419	0
-	"	8	23
-	^	8	24
-	.	8	23
-	+	8	23
-
-> ~/alx-higher_level_programming/0x0A-python-inheritance/4-inherits_from.py
-	*	1657075151	0
-	"	19	15
-	^	19	16
-	.	19	15
-	+	13	71
-	+	19	15
-
-> ~/alx-higher_level_programming/0x0A-python-inheritance/4-main.py
-	*	1657074691	0
-	"	10	65
-	^	10	66
-	.	10	65
-	+	10	65
-
-> ~/alx-higher_level_programming/0x0A-python-inheritance/3-is_kind_of_class.py
-	*	1657074430	0
-	"	13	34
-	^	13	35
-	.	13	34
-	+	13	34
-
-> ~/alx-higher_level_programming/0x0A-python-inheritance/3-main.py
-	*	1657074089	0
-	"	10	55
-	^	10	56
-	.	10	55
-	+	10	55
-
-> ~/alx-higher_level_programming/0x0A-python-inheritance/2-is_same_class.py
-	*	1657073739	0
-	"	16	15
-	^	16	16
-	.	16	15
-	+	16	15
-
-> ~/alx-higher_level_programming/0x0A-python-inheritance/2-main.py
-	*	1657073419	0
-	"	10	72
-	^	10	73
-	.	10	72
-	+	10	72
-
-> ~/alx-higher_level_programming/0x0A-python-inheritance/tests/1-my_list.txt
-	*	1657072926	0
-	"	1	6
-	^	1	7
-	.	1	6
-	+	77	19
-	+	1	6
-
-> ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-	*	1657072627	0
-	"	14	24
-	^	14	25
-	.	14	24
-	+	14	24
-
-> ~/alx-higher_level_programming/0x0A-python-inheritance/1-main.py
-	*	1657072201	0
-	"	12	13
-	^	12	14
-	.	12	13
-	+	12	13
-
-> ~/alx-higher_level_programming/0x0A-python-inheritance/0-main.py
-	*	1657071997	0
-	"	14	17
-	^	14	18
-	.	14	17
-	+	14	17
-
-> ~/alx-higher_level_programming/0x0A-python-inheritance/0-lookup.py
-	*	1657071898	0
-	"	13	20
-	^	13	21
-	.	13	20
-	+	8	58
-	+	13	20
-
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/102-result
-	*	1656905654	0
-	"	1	17
-	^	1	18
-	.	1	13
-	+	1	13
-
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/103-keygen.c
-	*	1656905304	0
-	"	45	0
-	^	45	1
-	.	45	0
-	+	45	0
-
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/100-password
-	*	1656904329	0
-	"	1	12
-	^	1	13
-	.	1	12
-	+	1	12
-
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-	*	1656903861	0
-	"	52	0
-	^	52	1
-	.	52	0
-	+	52	0
-
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/8-main.c
-	*	1656903711	0
-	"	68	0
-	^	68	1
-	.	68	0
-	+	68	0
-
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/7-insert_dnodeint.c
-	*	1656903385	0
-	"	54	0
-	^	54	1
-	.	54	0
-	+	54	0
-
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/7-main.c
-	*	1656903290	0
-	"	31	0
-	^	31	1
-	.	31	0
-	+	31	0
-
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/6-sum_dlistint.c
-	*	1656903037	0
-	"	29	0
-	^	29	1
-	.	29	0
-	+	29	0
-
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/6-main.c
-	*	1656902947	0
-	"	30	0
-	^	30	1
-	.	30	0
-	+	30	0
-
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/5-get_dnodeint.c
-	*	1656902662	0
-	"	32	0
-	^	32	1
-	.	32	0
-	+	32	0
-
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/5-main.c
-	*	1656902558	0
-	"	31	0
-	^	31	1
-	.	31	0
-	+	31	0
-
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/4-free_dlistint.c
-	*	1656902214	0
-	"	22	0
-	^	22	1
-	.	22	0
-	+	22	0
-
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/4-main.c
-	*	1656902132	0
-	"	28	0
-	^	28	1
-	.	28	0
-	+	28	0
-
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/3-add_dnodeint_end.c
-	*	1656901872	0
-	"	39	0
-	^	39	1
-	.	39	0
-	+	39	0
-
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/3-main.c
-	*	1656901758	0
-	"	26	0
-	^	26	1
-	.	26	0
-	+	26	0
-
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/2-add_dnodeint.c
-	*	1656901534	0
+> ~/binary_trees/115-O
+	*	1663080433	0
+	"	4	0
+	^	4	0
+	.	3	9
+	+	1	27
+	+	3	9
+
+> ~/binary_trees/135-O
+	*	1663079428	0
+	"	3	3
+	^	3	4
+	.	3	3
+	+	3	3
+
+> ~/binary_trees/134-main.c
+	*	1663079382	0
+	"	51	0
+	^	51	1
+	.	51	0
+	+	51	0
+
+> ~/binary_trees/133-main.c
+	*	1663079317	0
 	"	38	0
 	^	38	1
 	.	38	0
 	+	38	0
 
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/2-main.c
-	*	1656901439	0
-	"	26	0
-	^	26	1
-	.	26	0
-	+	26	0
+> ~/binary_trees/132-main.c
+	*	1663079258	0
+	"	23	0
+	^	23	1
+	.	23	0
+	+	23	0
 
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/1-dlistint_len.c
-	*	1656901134	0
-	"	29	0
-	^	29	1
-	.	29	0
-	+	29	0
+> ~/binary_trees/131-main.c
+	*	1663079212	0
+	"	41	0
+	^	41	1
+	.	41	0
+	+	41	0
 
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/1-main.c
-	*	1656901068	0
-	"	34	0
-	^	34	1
-	.	34	0
-	+	34	0
+> ~/binary_trees/130-binary_tree_is_heap.c
+	*	1663078394	0
+	"	15	0
+	^	15	1
+	.	15	0
+	+	15	0
 
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/0-main.c
-	*	1656900841	0
-	"	34	0
-	^	34	1
-	.	34	0
-	+	34	0
+> ~/binary_trees/130-main.c
+	*	1663078308	0
+	"	51	0
+	^	51	1
+	.	51	0
+	+	51	0
 
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/0-print_dlistint.c
-	*	1656900734	0
+> ~/binary_trees/125-O
+	*	1663078162	0
+	"	3	8
+	^	3	9
+	.	3	8
+	+	3	8
+
+> ~/binary_trees/124-main.c
+	*	1663078100	0
+	"	40	0
+	^	40	1
+	.	40	0
+	+	40	0
+
+> ~/binary_trees/123-avl_remove.c
+	*	1663078042	0
+	"	1	0
+	^	1	0
+
+> ~/binary_trees/123-main.c
+	*	1663077918	0
+	"	45	0
+	^	45	1
+	.	45	0
+	+	45	0
+
+> ~/binary_trees/122-array_to_avl.c
+	*	1663077753	0
+	"	110	0
+	^	110	1
+	.	110	0
+	+	110	0
+
+> ~/binary_trees/122-main.c
+	*	1663077622	0
+	"	23	0
+	^	23	1
+	.	23	0
+	+	23	0
+
+> ~/binary_trees/121-avl_insert.c
+	*	1663077351	0
+	"	110	0
+	^	110	1
+	.	110	0
+	+	110	0
+
+> ~/binary_trees/121-main.c
+	*	1663077231	0
+	"	41	0
+	^	41	1
+	.	41	0
+	+	41	0
+
+> ~/binary_trees/120-binary_tree_is_avl.c
+	*	1663076987	0
+	"	65	0
+	^	65	1
+	.	65	0
+	+	65	0
+
+> ~/binary_trees/120-main.c
+	*	1663076900	0
+	"	57	0
+	^	57	1
+	.	57	0
+	+	57	0
+
+> ~/binary_trees/114-bst_remove.c
+	*	1663076448	0
+	"	99	0
+	^	99	1
+	.	99	0
+	+	99	0
+
+> ~/binary_trees/114-main.c
+	*	1663076356	0
+	"	37	0
+	^	37	1
+	.	37	0
+	+	37	0
+
+> ~/binary_trees/113-bst_search.c
+	*	1663076198	0
+	"	22	0
+	^	22	1
+	.	22	0
+	+	22	0
+
+> ~/binary_trees/113-main.c
+	*	1663076088	0
 	"	30	0
 	^	30	1
 	.	30	0
 	+	30	0
 
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-	*	1656900499	0
-	"	33	5
-	^	33	6
-	.	33	5
-	+	33	5
+> ~/binary_trees/112-array_to_bst.c
+	*	1663075861	0
+	"	33	0
+	^	33	1
+	.	33	0
+	+	33	0
 
-> ~/alx-higher_level_programming/0x04-python-more_data_structures/103-tests.py
-	*	1656899125	0
-	"	31	25
-	^	31	26
-	.	31	25
-	+	31	25
+> ~/binary_trees/112-main.c
+	*	1663075756	0
+	"	23	0
+	^	23	1
+	.	23	0
+	+	23	0
 
-> ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
-	*	1656898985	0
-	"	70	0
-	^	70	1
-	.	70	0
-	+	70	0
+> ~/binary_trees/111-bst_insert.c
+	*	1663075533	0
+	"	48	0
+	^	48	1
+	.	48	0
+	+	48	0
 
-> ~/alx-higher_level_programming/0x04-python-more_data_structures/102-complex_delete.py
-	*	1656897932	0
-	"	8	0
-	^	8	0
-	.	8	0
-	+	9	11
-	+	8	0
+> ~/binary_trees/111-main.c
+	*	1663075439	0
+	"	36	0
+	^	36	1
+	.	36	0
+	+	36	0
 
-> ~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py
-	*	1656897301	0
-	"	3	61
-	^	3	62
-	.	3	61
-	+	3	61
+> ~/binary_trees/110-binary_tree_is_bst.c
+	*	1663075240	0
+	"	35	0
+	^	35	1
+	.	35	0
+	+	35	0
 
-> ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
-	*	1656896920	0
-	"	2	43
-	^	2	44
-	.	3	0
-	+	3	58
-	+	3	0
+> ~/binary_trees/110-main.c
+	*	1663075147	0
+	"	33	0
+	^	33	1
+	.	33	0
+	+	33	0
 
-> ~/alx-higher_level_programming/0x04-python-more_data_structures/7-update_dictionary.py
-	*	1656896236	0
-	"	3	48
-	^	3	49
-	.	4	0
-	+	3	49
-	+	4	0
+> ~/binary_trees/104-binary_tree_rotate_right.c
+	*	1663074942	0
+	"	34	0
+	^	34	1
+	.	34	0
+	+	34	0
 
-> ~/alx-higher_level_programming/0x04-python-more_data_structures/7-main.py
-	*	1656896137	0
-	"	1	0
-	^	1	0
+> ~/binary_trees/104-main.c
+	*	1663074841	0
+	"	30	0
+	^	30	1
+	.	30	0
+	+	30	0
 
-> ~/alx-higher_level_programming/0x03-python-data_structures/linked_lists.c
-	*	1656895034	0
-	"	1	0
-	^	1	0
-	.	74	0
-	+	74	0
+> ~/binary_trees/103-binary_tree_rotate_left.c
+	*	1663074565	0
+	"	34	0
+	^	34	1
+	.	34	0
+	+	34	0
 
-> ~/alx-higher_level_programming/0x03-python-data_structures/lists.h
-	*	1656894923	0
-	"	5	18
-	^	5	19
-	.	5	18
-	+	26	6
-	+	4	19
+> ~/binary_trees/103-main.c
+	*	1663074487	0
+	"	30	0
+	^	30	1
+	.	30	0
+	+	30	0
+
+> ~/binary_trees/102-binary_tree_is_complete.c
+	*	1663024523	0
+	"	131	0
+	^	131	1
+	.	131	0
+	+	131	0
+
+> ~/binary_trees/102-main.c
+	*	1663024273	0
+	"	45	0
+	^	45	1
+	.	45	0
+	+	45	0
+
+> ~/binary_trees/101-binary_trees_levelorder.c
+	*	1663023954	0
+	"	122	0
+	^	122	1
+	.	122	0
+	+	122	0
+
+> ~/binary_trees/101-main.c
+	*	1663023738	0
+	"	36	0
+	^	36	1
+	.	36	0
+	+	36	0
+
+> ~/binary_trees/100-binary_trees_ancestor.c
+	*	1663022789	0
+	"	26	0
+	^	26	1
+	.	26	0
+	+	26	0
+
+> ~/binary_trees/100-main.c
+	*	1663022637	0
+	"	47	0
+	^	47	1
+	.	47	0
+	+	47	0
+
+> ~/binary_trees/5-main.c
+	*	1663000983	0
+	"	28	0
+	^	28	0
+	.	28	0
+	+	29	0
+	+	12	0
+	+	13	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	22	0
+	+	23	0
+	+	24	0
 	+	25	0
-	+	2	15
+	+	26	0
+	+	27	0
+	+	28	0
+
+> ~/binary_trees/4-main.c
+	*	1663000825	0
+	"	28	0
+	^	28	0
+	.	28	0
+	+	29	0
+	+	28	0
+	+	12	0
+	+	13	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	22	0
+	+	23	0
+	+	24	0
+	+	25	0
+	+	26	0
+	+	27	0
+	+	28	0
+
+> ~/binary_trees/5-binary_tree_is_root.c
+	*	1663000531	0
+	"	15	0
+	^	15	0
+	.	14	1
+	+	14	1
+
+> ~/binary_trees/4-binary_tree_is_leaf.c
+	*	1663000340	0
+	"	14	0
+	^	14	0
+	.	14	0
+	+	14	0
+
+> ~/binary_trees/18-binary_tree_uncle.c
+	*	1662994111	0
+	"	14	0
+	^	14	1
+	.	14	0
+	+	14	0
+
+> ~/binary_trees/18-main.c
+	*	1662994048	0
+	"	33	0
+	^	33	1
+	.	33	0
+	+	33	0
+
+> ~/binary_trees/17-binary_tree_sibling.c
+	*	1662993917	0
+	"	14	0
+	^	14	1
+	.	14	0
+	+	14	0
+
+> ~/binary_trees/17-main.c
+	*	1662993851	0
+	"	35	0
+	^	35	1
+	.	35	0
+	+	35	0
+
+> ~/binary_trees/16-binary_tree_is_perfect.c
+	*	1662993696	0
+	"	65	0
+	^	65	1
+	.	65	0
+	+	65	0
+
+> ~/binary_trees/16-main.c
+	*	1662993600	0
+	"	37	0
+	^	37	1
+	.	37	0
+	+	37	0
+
+> ~/binary_trees/14-binary_tree_is_full.c
+	*	1662993412	0
+	"	34	0
+	^	34	1
+	.	34	0
+	+	34	0
+
+> ~/binary_trees/15-main.c
+	*	1662993353	0
+	"	30	0
+	^	30	1
+	.	30	0
+	+	30	0
+
+> ~/binary_trees/14-binary_tree_balance.c
+	*	1662993236	0
+	"	37	0
+	^	37	1
+	.	37	0
+	+	37	0
+
+> ~/binary_trees/14-main.c
+	*	1662993165	0
+	"	33	0
+	^	33	1
+	.	33	0
+	+	33	0
+
+> ~/binary_trees/13-binary_tree_nodes.c
+	*	1662993035	0
+	"	32	0
+	^	32	1
+	.	32	0
+	+	32	0
+
+> ~/binary_trees/13-main.c
+	*	1662992965	0
+	"	29	0
+	^	29	1
+	.	29	0
+	+	29	0
+
+> ~/binary_trees/12-binary_tree_leaves.c
+	*	1662992848	0
+	"	33	0
+	^	33	1
+	.	33	0
+	+	33	0
+
+> ~/binary_trees/12-main.c
+	*	1662992748	0
+	"	29	0
+	^	29	1
+	.	29	0
+	+	29	0
+
+> ~/binary_trees/11-binary_tree_size.c
+	*	1662992485	0
+	"	19	0
+	^	19	0
+	.	19	0
+	+	19	0
+
+> ~/binary_trees/11-main.c
+	*	1662992292	0
+	"	29	0
+	^	29	1
+	.	29	0
+	+	29	0
+
+> ~/binary_trees/10-binary_tree_depth.c
+	*	1662992222	0
+	"	26	0
+	^	26	1
+	.	26	0
+	+	26	0
+
+> ~/binary_trees/10-main.c
+	*	1662991796	0
+	"	29	0
+	^	29	1
+	.	29	0
+	+	29	0
+
+> ~/binary_trees/9-binary_tree_height.c
+	*	1662991662	0
+	"	34	0
+	^	34	1
+	.	34	0
+	+	34	0
+
+> ~/binary_trees/9-main.c
+	*	1662991587	0
+	"	29	0
+	^	29	1
+	.	29	0
+	+	29	0
+
+> ~/binary_trees/8-binary_tree_postorder.c
+	*	1662991475	0
+	"	14	0
+	^	14	1
+	.	14	0
+	+	14	0
+
+> ~/binary_trees/8-main.c
+	*	1662991405	0
+	"	35	0
+	^	35	1
+	.	35	0
+	+	35	0
+
+> ~/binary_trees/7-binary_tree_inorder.c
+	*	1662991268	0
+	"	14	0
+	^	14	1
+	.	14	0
+	+	14	0
+
+> ~/binary_trees/7-main.c
+	*	1662991211	0
+	"	35	0
+	^	35	1
+	.	35	0
+	+	35	0
+
+> ~/binary_trees/6-binary_tree_preorder.c
+	*	1662990810	0
+	"	14	0
+	^	14	1
+	.	14	0
+	+	14	0
+
+> ~/binary_trees/6-main.c
+	*	1662990249	0
+	"	35	0
+	^	35	1
+	.	35	0
+	+	35	0
+
+> ~/binary_trees/2-binary_tree_delete.c
+	*	1662989417	0
+	"	13	0
+	^	13	1
+	.	13	0
+	+	13	0
+
+> ~/binary_trees/3-main.c
+	*	1662989362	0
+	"	22	0
+	^	22	1
+	.	22	0
+	+	22	0
+
+> ~/binary_trees/2-binary_tree_insert_right.c
+	*	1662989248	0
+	"	25	0
+	^	25	1
+	.	25	0
+	+	25	0
+
+> ~/binary_trees/2-main.c
+	*	1662989153	0
+	"	23	0
+	^	23	1
+	.	23	0
+	+	23	0
+
+> ~/binary_trees/1-binary_tree_insert_left.c
+	*	1662989016	0
+	"	33	0
+	^	33	1
+	.	33	0
+	+	33	0
+
+> ~/binary_trees/1-main.c
+	*	1662988938	0
+	"	23	0
+	^	23	1
+	.	23	0
+	+	23	0
+
+> ~/binary_trees/binary_tree_print.c
+	*	1662988648	0
+	"	99	0
+	^	99	1
+	.	99	0
+	+	99	0
+
+> ~/binary_trees/binary_trees.h
+	*	1662988541	0
+	"	86	5
+	^	86	6
+	.	86	6
+	+	86	6
+
+> ~/binary_trees/0-binary_tree_node.c
+	*	1662988378	0
+	"	22	0
+	^	22	1
+	.	22	0
+	+	22	0
+
+> ~/binary_trees/0-main.c
+	*	1662988288	0
+	"	25	0
+	^	25	1
+	.	25	0
+	+	25	0
+
+> /alx-higher_level_programming/0x13-javascript_objects_scopes_closures/102-concat.js
+	*	1662840504	0
+	"	1	14
+	^	1	15
+	.	1	15
+	+	8	42
+	+	4	17
+	+	1	15
+
+> /alx-higher_level_programming/0x13-javascript_objects_scopes_closures/101-sorted.js
+	*	1662840195	0
+	"	6	19
+	^	6	20
+	.	14	20
+	+	14	20
+
+> /alx-higher_level_programming/0x13-javascript_objects_scopes_closures/101-data.js
+	*	1662839568	0
+	"	9	1
+	^	9	2
+	.	9	1
+	+	9	1
+
+> /alx-higher_level_programming/0x13-javascript_objects_scopes_closures/100-map.js
+	*	1662839296	0
+	"	6	41
+	^	6	42
+	.	6	41
+	+	6	41
+
+> /alx-higher_level_programming/0x13-javascript_objects_scopes_closures/100-data.js
+	*	1662839031	0
+	"	2	30
+	^	2	31
+	.	2	30
+	+	2	30
+
+> /alx-higher_level_programming/0x13-javascript_objects_scopes_closures/10-converter.js
+	*	1662838700	0
+	"	13	1
+	^	13	2
+	.	13	1
+	+	13	1
+
+> /alx-higher_level_programming/0x13-javascript_objects_scopes_closures/10-main.js
+	*	1662838443	0
+	"	15	28
+	^	15	29
+	.	15	28
+	+	15	28
+
+> /alx-higher_level_programming/0x13-javascript_objects_scopes_closures/9-logme.js
+	*	1662838165	0
+	"	8	1
+	^	8	2
+	.	8	1
+	+	8	1
+
+> /alx-higher_level_programming/0x13-javascript_objects_scopes_closures/9-main.js
+	*	1662837829	0
+	"	6	15
+	^	6	16
+	.	6	15
+	+	6	15
+
+> /alx-higher_level_programming/0x13-javascript_objects_scopes_closures/8-esrever.js
+	*	1662837409	0
+	"	11	1
+	^	11	2
+	.	11	1
+	+	11	1
+
+> /alx-higher_level_programming/0x13-javascript_objects_scopes_closures/8-main.js
+	*	1662837174	0
+	"	5	58
+	^	5	59
+	.	5	58
+	+	5	58
+
+> /alx-higher_level_programming/0x13-javascript_objects_scopes_closures/7-main.js
+	*	1662837086	0
+	"	6	19
+	^	6	20
+	.	6	19
+	+	7	0
+	+	2	13
 	+	4	18
-	+	5	18
+	+	5	19
+	+	6	19
 
-> ~/alx-higher_level_programming/0x03-python-data_structures/100-print_python_list_info.c
-	*	1656894572	0
+> /alx-higher_level_programming/0x13-javascript_objects_scopes_closures/7-occurrences.js
+	*	1662836610	0
+	"	6	7
+	^	6	8
+	.	6	7
+	+	7	1
+	+	6	7
+
+> /alx-higher_level_programming/0x13-javascript_objects_scopes_closures/6-square.js
+	*	1662835819	0
+	"	19	1
+	^	19	2
+	.	19	1
+	+	5	40
+	+	19	1
+
+> /alx-higher_level_programming/0x13-javascript_objects_scopes_closures/6-main.js
+	*	1662835420	0
+	"	7	17
+	^	7	18
+	.	7	17
+	+	7	17
+
+> /alx-higher_level_programming/0x13-javascript_objects_scopes_closures/4-square.js
+	*	1662834790	0
+	"	14	1
+	^	14	2
+	.	14	1
+	+	2	54
+	+	14	1
+
+> /alx-higher_level_programming/0x13-javascript_objects_scopes_closures/5-square.js
+	*	1662834724	0
 	"	1	0
-	^	1	0
-	.	2	0
-	+	4	452
-	+	20	28
-	+	22	29
-	+	25	0
-	+	1	9
-	+	1	0
-	+	2	0
 
-> ~/alx-higher_level_programming/0x03-python-data_structures/6-print_matrix_integer.py
-	*	1656891713	0
-	"	12	16
-	^	12	17
-	.	12	16
-	+	4	260
-	+	4	38
-	+	8	54
-	+	12	16
+> /alx-higher_level_programming/0x13-javascript_objects_scopes_closures/5-main.js
+	*	1662833895	0
+	"	7	10
+	^	7	11
+	.	7	10
+	+	7	10
 
-> ~/alx-higher_level_programming/0x03-python-data_structures/1-element_at.py
-	*	1656890796	0
-	"	7	28
-	^	7	29
-	.	4	39
-	+	4	39
+> /alx-higher_level_programming/0x13-javascript_objects_scopes_closures/0-rectangle.js
+	*	1662833540	0
+	"	4	24
+	^	4	25
+	.	4	25
+	+	1	15
+	+	4	25
+
+> /alx-higher_level_programming/0x13-javascript_objects_scopes_closures/4-rectangle.js
+	*	1662826531	0
+	"	32	3
+	^	32	4
+	.	32	4
+	+	35	1
+	+	28	0
+	+	32	0
+	+	33	3
+	+	32	7
+	+	33	7
+	+	32	8
+	+	33	4
+	+	32	4
+
+> /alx-higher_level_programming/0x13-javascript_objects_scopes_closures/4-main.js
+	*	1662825947	0
+	"	14	10
+	^	14	11
+	.	14	10
+	+	14	10
+
+> /alx-higher_level_programming/0x13-javascript_objects_scopes_closures/3-rectangle.js
+	*	1662825196	0
+	"	17	7
+	^	17	8
+	.	17	7
+	+	25	1
+	+	16	35
+	+	17	7

@@ -704,3 +704,822 @@ pycodestyle 0-read_file.py
 chmod u+x 0-read_file.py 
 ./0-main.py 
 exit
+cd root
+cd alx-system_engineering-devops/command_line_for_the_win/
+git staus
+git status
+ls
+git add 0-first_9_tasks.png
+exit
+cd root
+ls
+cd alx-higher_level_programming
+ls
+exit
+cd root
+ls
+cd alx-low_level_programming/
+ls 
+cd 0x1A-hash_tables/
+ls
+vim hash_tables.h
+git add .
+git commit -m 'Header file'
+git push origin master
+git pull origin master
+git push origin master
+clear
+vim 0-main.c
+vim 0-hash_table_create.c
+betty 0-hash_table_create.c 
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-hash_table_create.c -o a
+./a
+valgrind ./a
+git add 0-hash_table_create.c 
+git commit -m 'Hash tables'
+git push origin master
+clear
+1-main.c
+vim 1-main.c
+vim 1-djb2.c
+betty 1-djb2.c 
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c 1-djb2.c -o b
+./b
+git add 1-djb2.c 
+git commit -m 'Hash tables'
+git push origin master
+clear
+im 2-main.c
+vim 2-main.c
+vim 2-key_index.c
+betty 2-key_index.c 
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-main.c 1-djb2.c 2-key_index.c -o c
+./c
+git add 2-key_index.c 
+git commit -m 'Hash tables'
+git push origin master
+clear
+vim 3-main.c
+vim 3-hash_table_set.c
+betty 3-hash_table_set.c 
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-main.c 0-hash_table_create.c 1-djb2.c 2-key_index.c 3-hash_table_set.c -o d
+./d
+git add 3-hash_table_set.c 
+git commit -m 'Hash tables'
+git push origin master
+clear
+vim 4-main.c
+vim 4-hash_table_get.c
+betty 4-hash_table_get.c 
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 4-main.c 0-hash_table_create.c 1-djb2.c 2-key_index.c 3-hash_table_set.c 4-hash_table_get.c -o e
+./e
+git add 4-hash_table_get.c 
+git commit -m 'Hash tables'
+git push origin master
+clear
+vim 5-main.c
+vim 5-hash_table_print.c
+betty 5-hash_table_print.c 
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 5-main.c 0-hash_table_create.c 1-djb2.c 2-key_index.c 3-hash_table_set.c 4-hash_table_get.c 5-hash_table_print.c -o f
+./f
+git add 5-hash_table_print.c 
+git commit -m 'Hash tables'
+git push origin master
+clear
+vim 6-main.c
+vim 6-hash_table_delete.c
+betty 6-hash_table_delete.c 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 0-hash_table_create.c 1-djb2.c 2-key_index.c 3-hash_table_set.c 4-hash_table_get.c 5-hash_table_print.c 6-hash_table_delete.c -o g
+valgrind ./g
+git add 6-hash_table_delete.c 
+git commit -m 'Hash tables'
+git push origin master
+clear
+vim 100-main.c
+vim 100-sorted_hash_table.c
+betty 100-sorted_hash_table.c 
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 100-main.c 100-sorted_hash_table.c 1-djb2.c 2-key_index.c -o sht 
+./sht
+git add 100-sorted_hash_table.c 
+git commit -m 'Hash tables'
+git push origin master
+exit
+ls
+cd alx-system_engineering-devops/
+ls
+cd ..
+cd alx-low_level_programming/
+ls
+cd ..
+ls
+git clone https://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@github.com/itzthem3ji/sorting_algorithms.git
+ls
+git init
+pwd
+ls -a
+cd sorting_algorithms/
+ls
+vim 3-quick_sort.c
+vim 1-insertion_sort_list.c
+ls
+rm 3-quick_sort.c 
+exit
+ls
+cd alx-system_engineering-devops/
+ls
+mkdir 0x04-loops_conditions_and_parsing
+cd 0x04-loops_conditions_and_parsing/
+echo 'Loops, conditions and parsing' > README.md
+cat README.md
+git add .
+git commit -m 'README.md file added'
+git push origin main
+cd ..
+sudo apt install shellcheck
+cd alx-system_engineering-devops/
+cd 0x04-loops_conditions_and_parsing/
+ls 
+vim 1-for_best_school
+ls
+chmod u+x 1-for_best_school 
+./1-for_best_school 
+git add .
+git commit -m 'For Best School loop'
+git push origin main
+clear
+vim 2-while_best_school
+chmod u+x 2-while_best_school 
+ls
+./2-while_best_school 
+git add .
+git commit -m 'While Best School loop'
+git push origin main
+clear
+vim 3-until_best_school
+shellcheck 3-until_best_school 
+vim 3-until_best_school
+shellcheck 3-until_best_school 
+chmod u+x 3-until_best_school 
+git add .
+git commit -m 'Until Best School loop'
+git push origin main
+clear
+vim 4-if_9_say_hi
+shellcheck 4-if_9_say_hi 
+vim 4-if_9_say_hi
+shellcheck 4-if_9_say_hi 
+vim 4-if_9_say_hi
+shellcheck 4-if_9_say_hi 
+git add .
+git commit -m 'If 9, say Hi!'
+git push origin main
+clear
+shellcheck 4-if_9_say_hi 
+chmod u+x 4-if_9_say_hi 
+./4
+./4-if_9_say_hi 
+git add .
+git commit -m 'If 9, say Hi!'
+git push origin main
+./4-if_9_say_hi 
+vim 4-if_9_say_hi 
+./4-if_9_say_hi 
+vim 4-if_9_say_hi 
+./4-if_9_say_hi 
+git add .
+git commit -m 'If 9, say Hi!'
+git push origin main
+ls
+clear
+vim 5-4_bad_luck_8_is_your_chance
+chmod u+x 5-4_bad_luck_8_is_your_chance 
+./5-4_bad_luck_8_is_your_chance 
+vim 5-4_bad_luck_8_is_your_chance
+shellcheck 5-4_bad_luck_8_is_your_chance 
+./5-4_bad_luck_8_is_your_chance 
+git add .
+git commit -m '4 bad luck, 8 is your chance'
+git push origin main
+clear
+vim 6-superstitious_numbers
+shellcheck 6-superstitious_numbers 
+chmod u+x 6-superstitious_numbers 
+./6-superstitious_numbers 
+git add .
+git commit -m 'Superstitious numbers'
+git push origin main
+clear
+vim 7-clock
+shellcheck 7-clock 
+chmod u+x 7-clock 
+./7-clock | head -n 70
+git add .
+git commit -m 'Clock'
+git push origin main
+./7-clock | head -n 70
+clear
+vim 7-clock 
+./7-clock | head -n 70
+git add .
+git commit -m 'Clock'
+git push origin main
+clear
+vim 8-for_ls
+shellcheck 8-for_ls 
+vim 8-for_ls
+shellcheck 8-for_ls 
+vim 8-for_ls
+shellcheck 8-for_ls 
+chmod u+x 8-for_ls 
+./8-for_ls 
+git add .
+git commit -m 'For ls'
+git push origin main
+clear
+vim 9-to_file_or_not_to_file
+shellcheck 9-to_file_or_not_to_file 
+vim 9-to_file_or_not_to_file
+shellcheck 9-to_file_or_not_to_file 
+chmod u+x 9-to_file_or_not_to_file 
+file school
+./9-to_file_or_not_to_file 
+touch school
+./9-to_file_or_not_to_file 
+echo 'betty' > school
+./9-to_file_or_not_to_file 
+rm school
+mkdir school
+./9-to_file_or_not_to_file 
+git add .
+git commit -m 'To file, or not to file'
+git push origin main
+clear
+vim 10-fizzbuzz
+shellcheck 10-fizzbuzz 
+vim 10-fizzbuzz
+shellcheck 10-fizzbuzz 
+chmod u+x 10-fizzbuzz 
+./10-fizzbuzz | head -20
+git add .
+git commit -m 'FizzBuzz'
+git push origin main
+clear
+vim 100-read_and_cut
+shellcheck 100-read_and_cut 
+vim 100-read_and_cut
+shellcheck 100-read_and_cut 
+chmod u+x 100-read_and_cut 
+cat /etc/passwd
+./100-read_and_cut 
+vim 100-read_and_cut
+shellcheck 100-read_and_cut 
+cat /etc/passwd
+./100-read_and_cut 
+git add .
+git commit -m 'Read and cut'
+git push origin main
+clear
+vim 101-tell_the_story_of_passwd
+shellcheck 101-tell_the_story_of_passwd 
+chmod u+x 101-tell_the_story_of_passwd 
+./101-tell_the_story_of_passwd 
+git add .
+git commit -m 'Tell the story of passwd'
+git push origin main
+exit
+cd root
+cd alx-system_engineering-devops
+ls
+cd ..
+ls
+exit 
+cd alx-system_engineering-devops/0x06-regular_expressions/
+vim 100-textme.rb
+chmod u+x 100-textme.rb 
+./100-textme.rb 
+vim 100-textme.rb
+ls
+git add .
+git commit -m 'Regexp'
+git push origin main
+clear
+vim 0-simply_match_school.rb 
+./0-simply_match_school.rb School | cat -e
+vim 0-simply_match_school.rb 
+exit
+ls
+cd alx-system_engineering-devops/
+mkdir 0x07-networking_basics
+cd 0x07-networking_basics/
+echo 'Networking Basics' > README.md
+cat README.md
+git add .
+git commit -m 'README.md file added'
+git push origin main
+vim 0-OSI_model
+git add .
+git commit -m 'Networking basics'
+git push origin main
+vim 1-types_of_network
+git add .
+git commit -m 'Networking basics'
+git push origin main
+vim 2-MAC_and_IP_address
+git add .
+git push origin main
+git commit -m 'Networking basics'
+git push origin main
+vim 2-UDP_and_TCP
+git add .
+git commit -m 'Networking basics'
+git push origin main
+vim 4-TCP_and_UDP_ports
+ls
+mv 2-UDP_and_TCP 3-UDP_and_TCP
+ls
+chmod u+x 0-OSI_model 1-types_of_network 2-MAC_and_IP_address 3-UDP_and_TCP 4-TCP_and_UDP_ports 
+ls
+sudo ./4-TCP_and_UDP_ports 
+shellcheck 4-TCP_and_UDP_ports 
+vim 4-TCP_and_UDP_ports
+git add .
+git commit -m 'Networking basics'
+git push origin main
+vim 5-is_the_host_on_the_network
+shellcheck 5-is_the_host_on_the_network 
+vim 5-is_the_host_on_the_network
+shellcheck 5-is_the_host_on_the_network 
+chmod u+x 5-is_the_host_on_the_network 
+./5-is_the_host_on_the_network 8.8.8.8
+git add .
+git commit -m 'Networking Basics'
+git push origin main
+clear
+cd ..
+mkdir 0x08-networking_basics_2
+cd 0x08-networking_basics_2/
+echo 'Networking Basics #1' > README.md
+cat README.md
+git add .
+gt commit -m 
+git commit -m 'README file'
+git push origin main
+vim 0-change_your_home_IP
+shellcheck 0-change_your_home_IP 
+chmod u+x 0-change_your_home_IP 
+ping localhost
+sudo ./0-change_your_home_IP 
+vim 0-change_your_home_IP
+git add .
+git commit -m 'Networking basics 1'
+git push origin main
+vim 1-show_attached_IPs
+shellcheck 1-show_attached_IPs 
+vim 1-show_attached_IPs
+shellcheck 1-show_attached_IPs 
+chmod u+x 1-show_attached_IPs 
+git add .
+git commit -m 'Networking basics 1'
+git push origin main
+vim 100-port_listening_on_localhost
+shellcheck 100-port_listening_on_localhost 
+chmod u+x 100-port_listening_on_localhost 
+./100-port_listening_on_localhost 
+telnet localhost 98
+./100-port_listening_on_localhost 
+git add .
+git commit -m 'Networking basics 1'
+git push origin main
+cd ..
+cd 0x06-regular_expressions/
+ls
+vim 0-simply_match_school.rb 
+cd ..
+cd 0x08-networking_basics_2/
+ls
+exit
+ls
+cd alx-higher_level_programming/
+mkdir 0x0D-SQL_introduction
+cd 0x0D-SQL_introduction/
+echo 'Intoduction to SQL' > README.md
+cat README.md
+git add .
+git commit -m 'README.md file'
+git push origin main
+git push origin master
+git pull origin main
+git pull origin master
+git push origin master
+git pull origin master
+git status
+git pull
+git add ../0x00-python-hello_world/ ../README.md 
+git pull
+ls
+cd ..
+git add ../0x00-python-hello_world/ ../README.md 
+cd ..
+git add ../0x00-python-hello_world/ ../README.md
+cd alx-higher_level_programming/0x0D-SQL_introduction/
+ls -a
+git add .
+git commit -m 'README.me' 
+git push
+git push --help
+git pusg -u origin master
+git push -u origin master
+git pull -u origin master
+git pull origin master
+git pull origin master --allow-unrelated-histories
+git status
+git add ../0x00-python-hello_world/0-run
+git add ../0x00-python-hello_world/README.md
+git add ../README.md
+git commit -m 'Add these files'
+git push origin master
+ls
+cd ...
+cd root/
+cd root
+cd ..
+cd /root
+sudo apt update
+apt list --upgradable
+sudo apt install mysql-server
+sudo mysql
+service mysql start
+$
+service mysql start
+cat 0-list_databases.sql | mysql -uroot -p
+cd alx-higher_level_programming/
+ls
+mkdir 0x0D-SQL_introduction
+cd 0x0D-SQL_introduction/
+ls
+echo 'Introduction to SQL' > README.md
+cat README.md 
+git add .
+git commit -m 'README.md file added'
+git push
+git pull origin master
+git status
+git add .
+cd root
+cd /root
+git clone https://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@github.com/Queen-Orion/alx-higher_level_programming.git
+cd alx-higher_level_programming/
+ls
+cd 0x0D-SQL_introduction/
+ls
+git staus
+git status
+vim 0-list_database.sql
+cat 0-list_databases.sql | mysql -hlocalhost -uroot -p
+ls
+mv 0-list_database.sql 0-list_databases.sql 
+cat 0-list_databases.sql | mysql -hlocalhost -uroot -p
+git add 0-list_databases.sql 
+git commit -m 'SQL_Introduction'
+git status
+git add .
+git commit -m 'Fix'
+git push origin master
+ls
+git status
+ls
+git add 0-list_databases.sql 
+git commit -m 'SQL Introduction'
+git commit -a 'SQL Introduction'
+cd ..
+git add .
+git commit -m 'Fixed'
+git push origin master
+git pull origin master
+git push origin master
+git status
+cd 0x0D-SQL_introduction/
+ls
+git add .
+git commit -m 'SQL Introduction'
+git push origin master
+vim 1-create_database_if_missing.sql
+cat 1-create_database_if_missing.sql | mysql -hlocalhost -uroot -p
+vim 1-create_database_if_missing.sql
+cat 1-create_database_if_missing.sql | mysql -hlocalhost -uroot -p
+git add .
+git commit -m 'SQL Introduction'
+git push origin master
+vim 2-remove_database.sql
+cat 0-list_databases.sql | mysql -hlocalhost -uroot -p
+cat 2-remove_database.sql | mysql -hlocalhost -uroot -p
+vim 2-remove_database.sql
+cat 2-remove_database.sql | mysql -hlocalhost -uroot -p
+cat 0-list_databases.sql | mysql -hlocalhost -uroot -p
+git add .
+git commit -m 'SQL Introduction'
+git push origin master
+vim 3-list_tables.sql
+cat 3-list_tables.sql | mysql -hlocalhost -uroot -p mysql
+git add .
+git commit -m 'SQL Introduction'
+git push origin master
+vim 4-first_table.sql
+cat 4-first_table.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+vim 4-first_table.sql
+cat 3-list_tables.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+cat 1-create_database_if_missing.sql | mysql -hlocalhost -uroot -p
+cat 3-list_tables.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+git add .
+git commit -m 'SQL Introduction'
+git push origin master
+vim 5-full_table.sql
+cat 5-full_table.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+cat 1-create_database_if_missing.sql | mysql -hlocalhost -uroot -p
+cat 5-full_table.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+git add .
+cat 5-full_table.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+git add .
+git commit -m 'SQL Introduction'
+git push origin master
+vim 6-list_values.sql
+cat 6-list_values.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+git add .
+git commit -m 'SQL Introduction'
+git push origin master
+vim 7-insert_value.sql
+cat 7-insert_value.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+cat 6-list_values.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+cat 7-insert_value.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+cat 6-list_values.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+ls
+vim 1-create_database_if_missing.sql 
+git add .
+git commit -m 'SQL Introduction'
+git push origin master
+vim 8-count_89.sql 
+cat 8-count_89.sql | mysql -hlocalhost -uroot -p hbtn_0c_0 | tail -1
+git add .
+git commit -m 'SQL Introduction'
+git push origin master
+vim 9-full_creation.sql 
+cat 9-full_creation.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+git add .
+git commit -m 'SQL Introduction'
+git push origin master
+vim 10-top_score.sql 
+cat 10-top_score.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+git add .
+git commit -m 'SQL Introduction'
+git push origin master
+vim 11-best_score.sql 
+cat 11-best_score.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+vim 11-best_score.sql 
+cat 11-best_score.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+vim 11-best_score.sql 
+cat 11-best_score.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+git add .
+git commit -m 'SQL Introduction'
+git push origin master
+vim 12-no_cheating.sql 
+cat 12-no_cheating.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+cat 10-top_score.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+git add .
+git commit -m 'SQL Introduction'
+git push origin master
+vim 13-change_class.sql 
+cat 13-change_class.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+cat 10-top_score.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+git add .
+git commit -m 'SQL Introduction'
+git push origin master
+vim 14-average.sql 
+cat 14-average.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+git add .
+git commit -m 'SQL Introduction'
+git push origin master
+vim 15-groups.sql 
+cat 15-groups.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+git add .
+git commit -m 'SQL Introduction'
+git push origin master
+vim 1-no_link.sql 
+ls
+mv 1-no_link.sql 16-no_link.sql
+ls
+cat 16-no_link.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+git add .
+git commit -m 'SQL Introduction'
+git push origin master
+vim 100-move_to_utf8.sql 
+cat 100-move_to_utf8.sql | mysql -hlocalhost -uroot -p 
+cat 5-full_table.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+git add .
+git commit -m 'SQL Introduction'
+git push origin master
+vim 101-avg_temperatures.sql 
+cat 101-avg_temperatures.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+git add .
+git commit -m 'SQL Introduction'
+git push origin master
+vim 102-top_city.sql 
+cat 102-top_city.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+vim 102-top_city.sql 
+cat 102-top_city.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+vim 102-top_city.sql 
+cat 102-top_city.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+vim 102-top_city.sql 
+cat 102-top_city.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+vim 102-top_city.sql 
+cat 102-top_city.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+git add .
+git commit -m 'SQL Introduction'
+git push origin master
+vim 103-max_state.sql 
+cat 103-max_state.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+git add .
+git commit -m 'SQL Introduction'
+git push origin master
+vim 12-no_cheating.sql 
+cat 12-no_cheating.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+cat 10-top_score.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+git add .
+git commit -m 'SQL Introduction'
+git push origin master
+exit
+ls
+cd root/
+git clone https://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@github.com/Queen-Orion/binary_trees.git
+ls
+cd binary_trees/
+echo 'binary_trees' > README.md
+ls
+git init
+git add README.md 
+git commit -m 'first coomit'
+git branch -M main
+git remote add origin https://github.com/Queen-Orion/binary_trees.git
+git push -u origin main
+clear
+vim 0-main.c
+vim 0-binary_tree_node.c
+vim binary_trees.h
+vim binary_tree_print.c
+ls
+betty 0-binary_tree_node.c 
+gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 0-main.c 0-binary_tree_node.c -o 0-node
+./0-node
+git add .
+git commit -m 'Binary_trees'
+git push -u origin main
+vim 1-main.c
+vim 1-binary_tree_insert_left.c
+betty 1-binary_tree_insert_left.c 
+gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 1-main.c 1-binary_tree_insert_left.c 0-binary_tree_node.c -o 1-left
+./1-left
+vim 2-main.c
+vim 2-binary_tree_insert_right.c
+betty 2-binary_tree_insert_right.c 
+gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 2-main.c 2-binary_tree_insert_right.c 0-binary_tree_node.c -o 2-right
+vim 3-main.c
+vim 2-binary_tree_delete.c
+ls
+mv 2-binary_tree_delete.c 3-binary_tree_delete.c
+ls
+betty 3-binary_tree_delete.c 
+gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 3-main.c 3-binary_tree_delete.c 0-binary_tree_node.c 2-binary_tree_insert_right.c -o 3-del
+vim 4-main.c
+vim 4-binary_tree_is_leaf.c
+betty 4-binary_tree_is_leaf.c 
+gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 4-binary_tree_is_leaf.c 4-main.c 0-binary_tree_node.c 2-binary_tree_insert_right.c -o 4-leaf
+./4-leaf
+vim 5-main.c
+vim 5-binary_tree_is_root.c
+betty 5-binary_tree_is_root.c 
+gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 5-binary_tree_is_root.c 5-main.c 0-binary_tree_node.c 2-binary_tree_insert_right.c -o 5-root
+./5-root
+vim 6-main.c
+vim 6-binary_tree_preorder.c
+betty 6-binary_tree_preorder.c 
+gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 6-main.c 6-binary_tree_preorder.c 0-binary_tree_node.c -o 6-pre
+./6-pre
+vim 7-main.c
+vim 7-binary_tree_inorder.c
+gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 7-main.c 7-binary_tree_inorder.c 0-binary_tree_node.c -o 7-in
+./7-in
+vim 8-main.c
+vim 8-binary_tree_postorder.c
+gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 8-main.c 8-binary_tree_postorder.c 0-binary_tree_node.c -o 8-post
+./8-post
+vim 9-main.c
+vim 9-binary_tree_height.c
+betty 9-binary_tree_height.c 
+gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 9-binary_tree_height.c 9-main.c 0-binary_tree_node.c 2-binary_tree_insert_right.c -o 9-height
+./9-height
+vim 10-main.c
+vim 10-binary_tree_depth.c
+betty 10-binary_tree_depth.c 
+gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 10-binary_tree_depth.c 10-main.c 0-binary_tree_node.c 2-binary_tree_insert_right.c -o 10-depth
+ls
+./10-depth
+vim 10-binary_tree_depth.c
+ls
+vim 11-main.c
+vim 11-binary_tree_size.c
+betty 11-binary_tree_size.c 
+vim 11-binary_tree_size.c
+gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 11-binary_tree_size.c 11-main.c 0-binary_tree_node.c 2-binary_tree_insert_right.c -o 11-size
+./11-size
+vim 12-main.c
+vim 12-binary_tree_leaves.c
+betty 12-binary_tree_leaves.c 
+gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 12-binary_tree_leaves.c 12-main.c 0-binary_tree_node.c 2-binary_tree_insert_right.c -o 12-leaves
+./12-leaves
+vim 13-main.c
+vim 13-binary_tree_nodes.c
+betty 13-binary_tree_nodes.c 
+gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 13-binary_tree_nodes.c 13-main.c 0-binary_tree_node.c 2-binary_tree_insert_right.c -o 13-nodes
+./13-nodes
+vim 14-main.c
+vim 14-binary_tree_balance.c
+betty 14-binary_tree_balance.c 
+gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 14-binary_tree_balance.c 14-main.c 0-binary_tree_node.c 2-binary_tree_insert_right.c 1-binary_tree_insert_left.c -o 14-balance
+./14-balance
+vim 15-main.c
+vim 14-binary_tree_is_full.c
+ls
+mv 14-binary_tree_is_full.c 15-binary_tree_is_full.c
+ls
+betty 15-binary_tree_is_full.c 
+gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 15-binary_tree_is_full.c 15-main.c 0-binary_tree_node.c 2-binary_tree_insert_right.c -o 15-full
+./15-full
+vim 16-main.c
+vim 16-binary_tree_is_perfect.c
+betty 16-binary_tree_is_perfect.c 
+gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 16-binary_tree_is_perfect.c 16-main.c 0-binary_tree_node.c 2-binary_tree_insert_right.c -o 16-perfect
+./16-perfect
+vim 17-main.c
+vim 17-binary_tree_sibling.c
+betty 17-binary_tree_sibling.c 
+gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 17-main.c 17-binary_tree_sibling.c 0-binary_tree_node.c -o 17-sibling
+./17-sibling
+vim 18-main.c
+vim 18-binary_tree_uncle.c
+betty 18-binary_tree_uncle.c 
+gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 18-main.c 18-binary_tree_uncle.c 0-binary_tree_node.c -o 18-uncle
+./18-uncle
+ls
+rm 10-binary_tree_depth.c 
+ls
+git add .
+git commit -m 'Binary_trees'
+git push origin main
+ls
+4-b
+vim 4-binary_tree_is_leaf.c 
+betty 4-binary_tree_is_leaf.c 
+vim 5-binary_tree_is_root.c 
+betty 5-binary_tree_is_root.c 
+betty 4-main.c 
+vim 4-main.c 
+betty 4-main.c 
+betty 5-main.c 
+vim 5-main.c 
+betty 5-main.c 
+git add .
+git commit -m 'Binary_trees'
+git push origin main
+betty 11-main.c 
+exit
+cd root/
+ls
+cd binary_trees/
+ls
+vim 100-main.c
+vim 100-binary_trees_ancestor.c
+betty 100-binary_trees_ancestor.c 
+gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 100-main.c 100-binary_trees_ancestor.c 0-binary_tree_node.c -o 100-ancestor
+./100-ancestor
+git add .
+git commit -m 'Binary-trees'
+git push origin main
+vim 101-main.c
+vim 101-binary_trees_levelorder.c
+betty 101-binary_trees_levelorder.c 
+gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 101-main.c 101-binary_tree_levelorder.c 0-binary_tree_node.c 3-binary_tree_delete.c -o 101-lvl
+mv 101-binary_trees_levelorder.c 101-binary_tree_levelorder.c 
+betty 101-binary_tree_levelorder.c 
+gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 101-main.c 101-binary_tree_levelorder.c 0-binary_tree_node.c 3-binary_tree_delete.c -o 101-lvl
+./101-lvl
+git add .
+git commit -m 'Binary-trees'
+git push origin main
+vim 102-main.c
+vim 102-binary_tree_is_complete.c
+betty 102-binary_tree_is_complete.c 
+gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 102-main.c 102-binary_tree_is_complete.c 0-binary_tree_node.c 3-binary_tree_delete.c -o 102-complete
+./102-complete
+git add .
+git commit -m 'Binary-trees'
+git push origin main
+exit
